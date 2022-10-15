@@ -27,7 +27,7 @@ class _App extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          title: Text( 'Bayan'),
+          title: Text( 'Bayans'),
         ),
         body: ListView(
           padding: const EdgeInsets.all(8),
